@@ -1,0 +1,2 @@
+# DjangoComplete
+Logging Page complete 
